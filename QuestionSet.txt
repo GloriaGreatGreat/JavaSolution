@@ -1,0 +1,61 @@
+Class 1 - Array and Sorting Algorithms
+  Selection Sort -
+  Merger Sort -
+  Quick Sort -
+  Move 0s To The End I -
+  Rainbow Sort -
+
+Class 2 - Recursion I and Binary Search
+  Fibonacci Number -
+  a To the Power of b -
+  Classical Binary Search -
+  First Occurrence
+  Last Occurrence
+  Closest Number in Sorted Array
+  K Closest In Sorted Array
+  Search In Unknown Sized Sorted Array
+
+Class 3 - Queue, Stack & Linked List
+  Implement Queue By Two Stacks
+  Stack With Min()
+  Sort Numbers in Three Stacks
+  Reverse Linked List
+  Find Middle Node Of Linked List
+  Check If Linked List Has Cycle
+  Insert In Sorted Linked List
+  Merge Two Sorted Linked List
+  Reorder Linked List
+  Partition Linked List
+
+Class 4 - Binary Tree & Binary Search Tree
+  Binary Tree Pre-order Iterative Traversal
+  Binary Tree In-order Iterative Traversal
+  Binary Tree Post-order Iterative Traversal
+  Check If Binary Tree Is Balanced
+  Check If Binary Tree is Symmetric
+  Tweaked Identical Binary Trees
+  Is Binary Search Tree Or Not
+  Get Keys In Binary Search Tree In Given Range
+
+Class 5 - Heap & Graph Search Algorithm I (BFS)
+  K Smallest In Unsorted Array
+  Get Keys In Binary Tree Layer By Layer
+  Bipartite
+  Check If Binary Tree Is Complete
+  Kth Smallest Number In Sorted Array
+
+Class 6 - Graph Search Algorithm II (DFS)
+  All Subsets I -
+  All Valid Permutations Of Parentheses I -
+  Combinations Of Coins -
+  All Permutations I
+
+Class 7 - HashTable & String 1
+  Top K Frequent Words
+  Missing Number I
+  Common Numbers Of Two Sorted Arrays
+  Remove Certain Characters
+  Remove All Leading/Trailing/Duplicate Space Characters
+  Remove Adjacent Repeated Characters I
+  Remove Adjacent Repeated Characters IV
+  Determine If One String Is Another's Substring
